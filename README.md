@@ -1,8 +1,11 @@
+
+![Data Scientist. ](https://media-exp1.licdn.com/dms/image/C4D16AQGTK5zGGKfXdA/profile-displaybackgroundimage-shrink_350_1400/0/1668191261999?e=1674086400&v=beta&t=Cu9zZK7zeenURN84qaxf-B6xIz3eVTTJsInUWd4KUm0)
+
 # Hi there 👋
 
 ## I am Sylas Halder
 #### Data Scientist. 
-![Data Scientist. ](https://media-exp1.licdn.com/dms/image/C4D16AQGTK5zGGKfXdA/profile-displaybackgroundimage-shrink_350_1400/0/1668191261999?e=1674086400&v=beta&t=Cu9zZK7zeenURN84qaxf-B6xIz3eVTTJsInUWd4KUm0)
+
 
 Data Scientist with strong CSE background and experienced to using predictive modeling, data processing, and data mining algorithms to solve challenging business problems. Involved in Python open source community and passionate about deep reinforcement learning.
 
