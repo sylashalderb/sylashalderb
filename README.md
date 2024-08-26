@@ -1,25 +1,18 @@
+Hi there! 👋 I'm [Sylas Halder]
+🚀 About Me
+I'm an experienced Machine Learning Engineer and Data Scientist with a passion for uncovering insights from data and building intelligent systems. I also specialize in Web Scraping, gathering and processing data from diverse online sources.
 
-![Data Scientist. ](https://media-exp1.licdn.com/dms/image/C4D16AQGTK5zGGKfXdA/profile-displaybackgroundimage-shrink_350_1400/0/1668191261999?e=1674086400&v=beta&t=Cu9zZK7zeenURN84qaxf-B6xIz3eVTTJsInUWd4KUm0)
-
-# Hi there 👋
-
-## I am Sylas Halder
-#### Data Scientist. 
-
-
-Data Scientist with strong CSE background and experienced to using predictive modeling, data processing, and data mining algorithms to solve challenging business problems. Involved in Python open source community and passionate about deep reinforcement learning.
-
-Skills: Data Science/Mathematical/Programming/ML/Python/Data Visualizations
-
-- 🔭 I’m currently working on Freelancing 
-- 🌱 I’m currently learning DL 
-- 👯 I’m looking to collaborate on Github 
-- 🤔 I’m looking for help with Team 
-- 💬 Ask me about ML 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/https://github.com/sylashalderb)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sylas-halder-56844787//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'>](https://twitter.com/https://twitter.com/SylasHalderb)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='20'>](https://sylashalder.blogspot.com/)  
-
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
-
-
+🧠 What I Do
+Machine Learning Engineering: Designing, training, and deploying machine learning models to solve complex problems. Skilled in TensorFlow, PyTorch, and AutoML.
+Data Science: Analyzing large datasets to extract meaningful insights, create data-driven solutions, and deliver actionable recommendations.
+Web Scraping: Efficiently extracting and processing data from the web using tools like BeautifulSoup, Scrapy, and Selenium.
+🛠️ Tools & Technologies
+Languages: Python, SQL
+Frameworks: TensorFlow, PyTorch, Keras, Scikit-learn, FastAPI
+Data: Pandas, NumPy, Matplotlib, Seaborn, Plotly
+Web Scraping: BeautifulSoup, Scrapy, Selenium
+MLOps: Docker, Kubernetes, Azure, AWS
+Others: Git, Anaconda, Jupyter, VS Code
+🌱 Currently Exploring
+Advanced AutoML techniques and their applications.
+Building scalable and robust data pipelines in cloud environments.
